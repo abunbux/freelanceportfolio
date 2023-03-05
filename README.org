@@ -8,7 +8,7 @@
 #+STARTUP:  content
 
 #+DATE: CREATED: <Wed Mar 01 19:11:36 MSK 2023>
-# Time-stamp: <Последнее обновление -- Sunday March 5 11:28:47 MSK 2023>
+# Time-stamp: <Последнее обновление -- Sunday March 5 11:39:1 MSK 2023>
 
 Вёрстка по уроку с ютуб-канала [[https://www.youtube.com/@WebCademy][Школа веб-разработки WebCademy.ru]].
 
@@ -33,4 +33,5 @@
 
    [[https://github.com/rightblogru/freelanceportfolio][GitHub репозиторий с готовым кодом проекта]].
 
-   [[https://rightblogru.github.io/freelanceportfolio/index.html][Демо готового проекта]].
+   [[https://rightblogru.github.io/freelanceportfolio/index.html][Демо готового проекта]] - это ссылка на демо, предоставленная самим автором уроков, свою выложу по
+   окончании.
