@@ -102,8 +102,10 @@ body {
 
 .nav-list {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   column-gap: 40px;
+  row-gap: 10px;
   font-size: 16px;
   font-weight: 500;
   font-family: "Poppins", sans-serif;
@@ -360,3 +362,20 @@ body {
 }
 
 
+@media (max-width: 620px) {
+  .header__title {
+    font-size: 30px;
+  }
+  .header__title strong {
+    font-size: 40px;
+  }
+}
+
+@media (max-width: 380px) {
+  .header__title {
+    font-size: 20px;
+  }
+  .header__title strong {
+    font-size: 30px;
+  }
+}
