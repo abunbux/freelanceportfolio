@@ -1,0 +1,36 @@
+# -*- mode: org; -*-
+#+TITLE: README
+#+DESCRIPTION:
+#+KEYWORDS:
+#+AUTHOR:
+#+email:
+#+INFOJS_OPT:
+#+STARTUP:  content
+
+#+DATE: CREATED: <Wed Mar 01 19:11:36 MSK 2023>
+# Time-stamp: <Последнее обновление -- Sunday March 5 11:28:47 MSK 2023>
+
+Вёрстка по уроку с ютуб-канала [[https://www.youtube.com/@WebCademy][Школа веб-разработки WebCademy.ru]].
+
+Ссылка на сам видеоурок
+[[https://www.youtube.com/watch?v=tYdnepSqtNE][HTML CSS адаптивная верстка сайта Freelance Portfolio. Темная тема на JS. CSS переменные]].
+
+На страницу сайта с описанием урока
+[[https://webcademy.ru/blog/932/][Адаптивная верстка сайта Freelancer Portfolio. Темная тема на JS, CSS переменные, GitHub Pages]].
+
+В директории «freelanceportfolio» находятся оригинальные файлы проекта, взятые с github (ссылка на
+этот репозиторий ниже).
+
+** Материалы к уроку:
+
+   [[https://www.figma.com/file/tMOSNDbDEyMmcirz6cQ6WE/React-Simple-Portfolio?node-id=2203%3A191&t=QYBELmwM3Dy7vnVq-1][Макет в Figma]].
+
+   [[https://webcademy.ru/blog/739/][Сброс стилей reset.css]].
+
+   [[https://fonts.google.com/][Шрифты Google Fonts]].
+
+** Готовый код с урока:
+
+   [[https://github.com/rightblogru/freelanceportfolio][GitHub репозиторий с готовым кодом проекта]].
+
+   [[https://rightblogru.github.io/freelanceportfolio/index.html][Демо готового проекта]].
