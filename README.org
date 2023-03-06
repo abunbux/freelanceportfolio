@@ -8,7 +8,7 @@
 #+STARTUP:  content
 
 #+DATE: CREATED: <Wed Mar 01 19:11:36 MSK 2023>
-# Time-stamp: <Последнее обновление -- Sunday March 5 11:39:1 MSK 2023>
+# Time-stamp: <Последнее обновление -- Monday March 6 20:39:34 MSK 2023>
 
 Вёрстка по уроку с ютуб-канала [[https://www.youtube.com/@WebCademy][Школа веб-разработки WebCademy.ru]].
 
@@ -35,3 +35,8 @@
 
    [[https://rightblogru.github.io/freelanceportfolio/index.html][Демо готового проекта]] - это ссылка на демо, предоставленная самим автором уроков, свою выложу по
    окончании.
+
+   [[https://abunbux.github.io/freelanceportfolio][Ссылка, на мою работу]] - в принципе, разницы то нет, всего лишь жалкое обезьянничанье.
+
+* TODO Добавить полное описание;
+* TODO Подумать над тем, что можно переделать.
