@@ -8,18 +8,18 @@
 #+STARTUP:  content
 
 #+DATE: CREATED: <Wed Mar 01 19:11:36 MSK 2023>
-# Time-stamp: <Последнее обновление -- Monday March 6 20:39:34 MSK 2023>
+# Time-stamp: <Последнее обновление -- Tuesday March 7 19:12:16 MSK 2023>
 
-Вёрстка по уроку с ютуб-канала [[https://www.youtube.com/@WebCademy][Школа веб-разработки WebCademy.ru]].
+* Вёрстка по уроку с ютуб-канала [[https://www.youtube.com/@WebCademy][Школа веб-разработки WebCademy.ru]].
 
-Ссылка на сам видеоурок
-[[https://www.youtube.com/watch?v=tYdnepSqtNE][HTML CSS адаптивная верстка сайта Freelance Portfolio. Темная тема на JS. CSS переменные]].
+  Ссылка на сам видеоурок
+  [[https://www.youtube.com/watch?v=tYdnepSqtNE][HTML CSS адаптивная верстка сайта Freelance Portfolio. Темная тема на JS. CSS переменные]].
 
-На страницу сайта с описанием урока
-[[https://webcademy.ru/blog/932/][Адаптивная верстка сайта Freelancer Portfolio. Темная тема на JS, CSS переменные, GitHub Pages]].
+  На страницу сайта с описанием урока
+  [[https://webcademy.ru/blog/932/][Адаптивная верстка сайта Freelancer Portfolio. Темная тема на JS, CSS переменные, GitHub Pages]].
 
-В директории «freelanceportfolio» находятся оригинальные файлы проекта, взятые с github (ссылка на
-этот репозиторий ниже).
+  В директории «freelanceportfolio» находятся оригинальные файлы проекта, взятые с github (ссылка на
+  этот репозиторий ниже).
 
 ** Материалы к уроку:
 
@@ -38,5 +38,4 @@
 
    [[https://abunbux.github.io/freelanceportfolio][Ссылка, на мою работу]] - в принципе, разницы то нет, всего лишь жалкое обезьянничанье.
 
-* TODO Добавить полное описание;
-* TODO Подумать над тем, что можно переделать.
+* TODO Нужно добавить полное описание;
